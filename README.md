@@ -25,3 +25,11 @@ To run the notebook and utilize the model, the following dependencies are requir
 - Tensorflow
 - Matplotlib
 - pickle
+
+To run the ml_api and utilize the model, the following dependencies are required:
+- flask
+- numpy
+- pandas
+- scikit-learn
+- tensorflo
+- numpy

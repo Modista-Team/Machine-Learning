@@ -5,6 +5,7 @@ Presenting "MODISTA", a mobile application that provides a variety of current tr
 
 ## Our Model
 Our application provides convenience in making purchases and a good clothing recommendation system in accordance with current trends using machine learning for the accuracy of the recommendation system
+
 ![image](https://github.com/Modista-Team/Machine-Learning/assets/170929755/a53e76ce-4573-4b86-8640-40d415b22663)
 ![image](https://github.com/Modista-Team/Machine-Learning/assets/170929755/31444bbc-a1c9-4481-aa94-c1b585e64d82)
 

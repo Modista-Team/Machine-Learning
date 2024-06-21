@@ -41,9 +41,11 @@ User can input the product they want to search
 
 **Generates description and top10 product recommendations:**
 Description of the product you want to find
+
 ![image](https://github.com/Modista-Team/Machine-Learning/assets/170929755/d76cba97-2d4c-46fa-87b8-17b49b7fd0d7)
 
 Top10 product recommendations
+
 ![image](https://github.com/Modista-Team/Machine-Learning/assets/170929755/3455397c-f31b-409a-80fc-6239f050d3c3)
 ![image](https://github.com/Modista-Team/Machine-Learning/assets/170929755/cf4ca519-3dc6-4e7d-85d1-86fb431b3d58)
 ![image](https://github.com/Modista-Team/Machine-Learning/assets/170929755/2e644f26-2b44-415c-aa02-590903112ce8)

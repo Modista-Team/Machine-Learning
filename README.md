@@ -36,6 +36,7 @@ To run the ml_api and utilize the model, the following dependencies are required
 
 ### Flask API
 User can input the product they want to search
+
 ![image](https://github.com/Modista-Team/Machine-Learning/assets/170929755/4232ccad-5ae2-4652-9751-2aeac9171d68)
 ![image](https://github.com/Modista-Team/Machine-Learning/assets/170929755/cfbfd93a-2503-438d-961b-2625f1053950)
 
